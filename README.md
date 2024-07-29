@@ -18,7 +18,7 @@ Our team was interested in the demographic of artists and dates of creation for 
 - The dataset can be found below:
   - [MoMA](https://github.com/MuseumofModernArt/collection#:~:text=7%20years%20ago-,Artists.csv,-Automatic%20monthly%20update)
   - [Tate](https://github.com/tategallery/collection#:~:text=2%20years%20ago-,artist_data.csv,-Oct%2014%20metadata)
-  - [Block Museum]([https://blockmuseum.emuseum.com/people https://blockmuseum.emuseum.com/objects/table?page=1](https://blockmuseum.emuseum.com/collections))
+  - [Block Museum](https://blockmuseum.emuseum.com/collections)
   
 ## Contact
 Created by [Riley Otsuki](https://www.linkedin.com/in/rileyotsuki/)
